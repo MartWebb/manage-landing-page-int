@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --clr-pri-bright-red: hsl(12, 88%, 59%);
+    --clr-pri-dark-blue: hsl(228, 39%, 23%);
+    --clr-nu-greyish-blue: hsl(227, 12%, 61%);
+    --clr-nu-very-dark-blue: hsl(233, 12%, 13%);
+    --clr-nu-very-pale-red: hsl(13, 100%, 96%);
+    --clr-nu-very-light-grey: hsl(0, 0%, 98%);
+}
+
+body {
+    font-family: 'Be Vietnam', sans-serif;
+    
+}
+
+@media (min-width: 375px) {
+    
+}
+
+
+@media (min-width: 1440px) {
+
+}
